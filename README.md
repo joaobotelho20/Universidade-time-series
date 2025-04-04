@@ -1,4 +1,4 @@
-# Exxercícios sobre Séries Temporais
+# Exercícios sobre Séries Temporais
 
 Este repositório contém exercícios iniciais sobre séries temporais, desenvolvidos como parte do curso na universidade.
 
